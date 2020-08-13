@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "semver": "^7.3.2"
+  },
+  "name": "tag-ls",
+  "version": "0.0.5",
+  "author": "ealush",
+  "license": "ISC",
+  "bin": {
+    "tag-ls": "./cli.js"
+  }
+}
