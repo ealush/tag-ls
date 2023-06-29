@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "semver": "^7.3.2"
+    "semver": "^7.5.2"
   },
   "name": "tag-ls",
   "version": "0.0.5",
